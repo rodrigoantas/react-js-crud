@@ -23,6 +23,27 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://img.elo7.com.br/product/original/22565B3/adesivo-parede-prato-comida-frango-salada-restaurante-lindo-adesivo-parede.jpg",
+      "name": "teste",
+      "price": "19.90",
+      "description": "PF de respeito",
+      "id": 4
+    },
+    {
+      "image": "https://img.elo7.com.br/product/original/22565B3/adesivo-parede-prato-comida-frango-salada-restaurante-lindo-adesivo-parede.jpg",
+      "name": "teste",
+      "price": "19.90",
+      "description": "pf teste",
+      "id": 5
+    },
+    {
+      "image": "https://img.elo7.com.br/product/original/22565B3/adesivo-parede-prato-comida-frango-salada-restaurante-lindo-adesivo-parede.jpg",
+      "name": "teste",
+      "price": "19.90",
+      "description": "teste teste",
+      "id": 6
     }
   ]
 }
